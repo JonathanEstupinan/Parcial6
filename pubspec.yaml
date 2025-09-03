@@ -92,3 +92,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+  # Nuevo
+  dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^4.1.0
+  video_player: ^2.7.2
